@@ -12,3 +12,5 @@ Where possible, corresponding build videos are also included in the readme. When
 # Configlog
 
 # Filelog
+26.11.2024
+- Added formbot specific docs
