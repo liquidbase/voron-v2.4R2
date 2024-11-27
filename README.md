@@ -14,3 +14,7 @@ Where possible, corresponding build videos are also included in the readme. When
 # Filelog
 26.11.2024
 - Added formbot specific docs
+
+27.11.2024
+- Added PiCam-Mount
+- Added Panellatch
