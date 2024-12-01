@@ -24,3 +24,5 @@ Where possible, corresponding build videos are also included in the readme. When
 - Added CAD file
 - Added sample configs for M8P
 - Added printfiles for Z-Drives. Z-Idlers & Z-Endstop
+- Added 3MF file for Z-Drives
+- Added list for parts to print
