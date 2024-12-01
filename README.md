@@ -18,3 +18,9 @@ Where possible, corresponding build videos are also included in the readme. When
 27.11.2024
 - Added PiCam-Mount
 - Added Panellatch
+
+01.12.2024
+- Added voron assembly manual
+- Added CAD file
+- Added sample configs for M8P
+- Added printfiles for Z-Drives. Z-Idlers & Z-Endstop
