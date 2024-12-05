@@ -27,9 +27,9 @@ _Credit to [krobertson](https://gist.github.com/krobertson/adfd96689e8b66e7e1227
 [ x ]  [ x ]   [a]_belt_tensioner_b_x2.stl
 [ x ]  [ x ]   [a]_z_drive_baseplate_a_x2.stl
 [ x ]  [ x ]   [a]_z_drive_baseplate_b_x2.stl
-[  ]  [  ]   z_drive_main_a_x2.stl
+[ x ]  [ x ]   z_drive_main_a_x2.stl
 [  ]  [  ]   z_drive_main_b_x2.stl
-[  ]  [  ]   z_drive_retainer_a_x2.stl
+[ x ]  [ x ]   z_drive_retainer_a_x2.stl
 [  ]  [  ]   z_drive_retainer_b_x2.stl
 [  ]  [  ]   z_motor_mount_a_x2.stl
 [  ]  [  ]   z_motor_mount_b_x2.stl
