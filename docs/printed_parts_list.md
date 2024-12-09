@@ -48,7 +48,7 @@ _There are two different GT20 20T pully files; only one set of them should be pr
 #### [Z_Endstop](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/VORON2.4/Z_Endstop)
 
 ```
-[  ]   nozzle_probe.stl
+[ x ]   nozzle_probe.stl
 ```
 
 --------------------------------------------------------------------------------
@@ -58,12 +58,12 @@ _There are two different GT20 20T pully files; only one set of them should be pr
 #### [Gantry/Front_Idlers](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/VORON2.4/Gantry/Front_Idlers)
 
 ```
-[  ]   [a]_tensioner_left.stl
-[  ]   [a]_tensioner_right.stl
-[  ]   front_idler_left_lower.stl
-[  ]   front_idler_left_upper.stl
-[  ]   front_idler_right_lower.stl
-[  ]   front_idler_right_upper.stl
+[ X ]   [a]_tensioner_left.stl
+[ X ]   [a]_tensioner_right.stl
+[ x ]   front_idler_left_lower.stl
+[ x ]   front_idler_left_upper.stl
+[ x ]   front_idler_right_lower.stl
+[ x ]   front_idler_right_upper.stl
 ```
 
 #### [Gantry/AB_Drive_Units](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/VORON2.4/Gantry/AB_Drive_Units)
