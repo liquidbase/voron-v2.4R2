@@ -28,11 +28,11 @@ _Credit to [krobertson](https://gist.github.com/krobertson/adfd96689e8b66e7e1227
 [ x ]  [ x ]   [a]_z_drive_baseplate_a_x2.stl
 [ x ]  [ x ]   [a]_z_drive_baseplate_b_x2.stl
 [ x ]  [ x ]   z_drive_main_a_x2.stl
-[  ]  [  ]   z_drive_main_b_x2.stl
+[ x ]  [ x ]   z_drive_main_b_x2.stl
 [ x ]  [ x ]   z_drive_retainer_a_x2.stl
-[  ]  [  ]   z_drive_retainer_b_x2.stl
-[  ]  [  ]   z_motor_mount_a_x2.stl
-[  ]  [  ]   z_motor_mount_b_x2.stl
+[ x ]  [ x ]   z_drive_retainer_b_x2.stl
+[ x ]  [ x ]   z_motor_mount_a_x2.stl
+[ x ]  [ x ]   z_motor_mount_b_x2.stl
 ```
 
 #### [Z_Idlers](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/VORON2.4/Z_Idlers)
@@ -40,10 +40,9 @@ _Credit to [krobertson](https://gist.github.com/krobertson/adfd96689e8b66e7e1227
 _There are two different GT20 20T pully files; only one set of them should be printed_
 
 ```
-[  ]  [  ]  [  ]  [  ]   [a]_z_tensioner_x4_6mm.stl <- select one vvv (6mm pully)
-[  ]  [  ]  [  ]  [  ]   [a]_z_tensioner_x4_9mm.stl <- select one ^^^ (9mm pully)
-[  ]  [  ]               z_tensioner_bracket_a_x2.stl
-[  ]  [  ]               z_tensioner_bracket_b_x2.stl
+[ x ]  [ x ]  [ x ]  [ x ]   [a]_z_tensioner_x4_9mm.stl
+[ x ]  [ x ]               z_tensioner_bracket_a_x2.stl
+[ x ]  [ x ]               z_tensioner_bracket_b_x2.stl
 ```
 
 #### [Z_Endstop](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/VORON2.4/Z_Endstop)
@@ -207,28 +206,6 @@ _Select the chain anchor (generic or igus) that matches your drag chain choice_
 [  ]  [  ]   [a]_belt_guard_a_x2.stl
 [  ]  [  ]   [a]_belt_guard_b_x2.stl
 [  ]  [  ]   side_fan_support_x2.stl
-```
-
-#### [250](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/VORON2.4/Skirts/250)
-
-_Use these skirts when printing a 250mm frame_
-
-```
-[  ]  [  ]   front_rear_skirt_a_250_x2.stl
-[  ]  [  ]   front_rear_skirt_b_250_x2.stl
-[  ]  [  ]   side_skirt_a_250_x2.stl
-[  ]  [  ]   side_skirt_b_250_x2.stl
-```
-
-#### [300](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/VORON2.4/Skirts/300)
-
-_Use these skirts when printing a 300mm frame_
-
-```
-[  ]  [  ]   front_rear_skirt_a_300_x2.stl
-[  ]  [  ]   front_rear_skirt_b_300_x2.stl
-[  ]  [  ]   side_skirt_a_300_x2.stl
-[  ]  [  ]   side_skirt_b_300_x2.stl
 ```
 
 #### [350](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/VORON2.4/Skirts/350)
