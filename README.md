@@ -26,3 +26,7 @@ Where possible, corresponding build videos are also included in the readme. When
 - Added printfiles for Z-Drives. Z-Idlers & Z-Endstop
 - Added 3MF file for Z-Drives
 - Added list for parts to print
+
+09.12.2024
+- Added printfiles for front idlers
+- Added 3MF for front idlers
