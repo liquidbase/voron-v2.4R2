@@ -30,3 +30,7 @@ Where possible, corresponding build videos are also included in the readme. When
 09.12.2024
 - Added printfiles for front idlers
 - Added 3MF for front idlers
+
+10.12.2024
+- Added printfiles for XY Joints
+- Added 3MF for XY Joints
