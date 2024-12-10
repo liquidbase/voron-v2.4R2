@@ -69,12 +69,12 @@ _There are two different GT20 20T pully files; only one set of them should be pr
 #### [Gantry/AB_Drive_Units](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/VORON2.4/Gantry/AB_Drive_Units)
 
 ```
-[  ]         [a]_cable_cover.stl
-[  ]  [  ]   [a]_z_chain_retainer_bracket_x2.stl
-[  ]         a_drive_frame_lower.stl
-[  ]         a_drive_frame_upper.stl
-[  ]         b_drive_frame_lower.stl
-[  ]         b_drive_frame_upper.stl
+[ x ]         [a]_cable_cover.stl
+[ x ]  [ x ]   [a]_z_chain_retainer_bracket_x2.stl
+[ x ]         a_drive_frame_lower.stl
+[ x ]         a_drive_frame_upper.stl
+[ x ]         b_drive_frame_lower.stl
+[ x ]         b_drive_frame_upper.stl
 ```
 
 --------------------------------------------------------------------------------
@@ -90,10 +90,10 @@ _Select one endstop_pod_* , and one xy_joint_cable_bridge_* depending on your ha
 [  ]   [a]_endstop_pod_microswitch.stl <- select one ^^^ (microswitch XY endstops)
 [  ]   [a]_xy_joint_cable_bridge_generic.stl <= select one vvv (generic drag chain)
 [  ]   [a]_xy_joint_cable_bridge_igus.stl    <= select one ^^^ (igus drag chain)
-[  ]   xy_joint_left_lower.stl
-[  ]   xy_joint_left_upper.stl
-[  ]   xy_joint_right_lower.stl
-[  ]   xy_joint_right_upper.stl
+[ x ]   xy_joint_left_lower.stl
+[ x ]   xy_joint_left_upper.stl
+[ x ]   xy_joint_right_lower.stl
+[ x ]   xy_joint_right_upper.stl
 ```
 
 #### [Gantry](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/VORON2.4/Gantry)
