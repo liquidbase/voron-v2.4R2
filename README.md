@@ -34,3 +34,7 @@ Where possible, corresponding build videos are also included in the readme. When
 10.12.2024
 - Added printfiles for XY Joints
 - Added 3MF for XY Joints
+
+11.12.2024
+- Added printfiles for Gantry
+- Added 3MF for Gantry
