@@ -86,10 +86,8 @@ _There are two different GT20 20T pully files; only one set of them should be pr
 _Select one endstop_pod_* , and one xy_joint_cable_bridge_* depending on your hardware kit_
 
 ```
-[  ]   [a]_endstop_pod_hall_effect.stl <- select one vvv (hall effect XY endstops)
-[  ]   [a]_endstop_pod_microswitch.stl <- select one ^^^ (microswitch XY endstops)
-[  ]   [a]_xy_joint_cable_bridge_generic.stl <= select one vvv (generic drag chain)
-[  ]   [a]_xy_joint_cable_bridge_igus.stl    <= select one ^^^ (igus drag chain)
+[ x ]   [a]_endstop_pod_microswitch.stl <- select one ^^^ (microswitch XY endstops)
+[ x ]   [a]_xy_joint_cable_bridge_generic.stl <= select one vvv (generic drag chain)
 [ x ]   xy_joint_left_lower.stl
 [ x ]   xy_joint_left_upper.stl
 [ x ]   xy_joint_right_lower.stl
@@ -99,10 +97,10 @@ _Select one endstop_pod_* , and one xy_joint_cable_bridge_* depending on your ha
 #### [Gantry](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/VORON2.4/Gantry)
 
 ```
-[  ]  [  ]  [  ]  [  ]   [a]_z_belt_clip_lower_x4.stl
-[  ]  [  ]  [  ]  [  ]   [a]_z_belt_clip_upper_x4.stl
-[  ]                     z_chain_bottom_anchor.stl
-[  ]                     z_chain_guide.stl              <-- Not in CAD or documentation
+[ x ]  [ x ]  [ x ]  [ x ]   [a]_z_belt_clip_lower_x4.stl
+[ x ]  [ x ]  [ x ]  [ x ]   [a]_z_belt_clip_upper_x4.stl
+[ x ]                     z_chain_bottom_anchor.stl
+[ x ]                     z_chain_guide.stl              <-- Not in CAD or documentation
 ```
 
 --------------------------------------------------------------------------------
