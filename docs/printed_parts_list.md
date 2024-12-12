@@ -13,7 +13,7 @@ _Credit to [krobertson](https://gist.github.com/krobertson/adfd96689e8b66e7e1227
 #### [Tools](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/VORON2.4/Tools)
 
 ```
-[  ]  [  ]   rail_installation_guide_center_x2.stl
+[ x ]  [ x ]   rail_installation_guide_center_x2.stl
 ```
 
 --------------------------------------------------------------------------------
