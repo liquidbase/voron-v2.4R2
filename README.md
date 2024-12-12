@@ -38,3 +38,9 @@ Where possible, corresponding build videos are also included in the readme. When
 11.12.2024
 - Added printfiles for Gantry
 - Added 3MF for Gantry
+
+12.12.2024
+- Added printfiles for Z-Joints
+- Added 3MF for Z-Joints
+- Added printfiles for tools
+- Added 3MF for tools
