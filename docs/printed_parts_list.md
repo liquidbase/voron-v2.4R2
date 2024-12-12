@@ -169,9 +169,9 @@ _Select the chain anchor (generic or igus) that matches your drag chain choice_
 #### [Gantry/Z_Joints](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/VORON2.4/Gantry/Z_Joints)
 
 ```
-[  ]  [  ]  [  ]  [  ]   z_joint_lower_x4.stl
-[  ]                     z_joint_upper_hall_effect.stl <-- if using hall effect XY
-[  ]  [  ]  [  ]  [  ]   z_joint_upper_x4.stl <-- use x3 if using hall effect XY
+[ x ]  [ x ]  [ x ]  [ x ]   z_joint_lower_x4.stl
+[ X ]                     z_joint_upper_hall_effect.stl <-- if using hall effect XY
+[ x ]  [ x ]  [ x ]  [ x ]   z_joint_upper_x4.stl <-- use x3 if using hall effect XY
 ```
 
 --------------------------------------------------------------------------------
