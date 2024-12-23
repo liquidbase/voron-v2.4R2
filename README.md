@@ -9,6 +9,9 @@ Where possible, corresponding build videos are also included in the readme. When
 26.11.2024
 - Initial Structure for GitHub
 
+15.12. - 23.12.2024
+- Printerbuild
+
 # Configlog
 
 # Filelog
@@ -44,3 +47,6 @@ Where possible, corresponding build videos are also included in the readme. When
 - Added 3MF for Z-Joints
 - Added printfiles for tools
 - Added 3MF for tools
+
+22.12.2024
+- Added print files for alle parts
