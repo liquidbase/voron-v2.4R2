@@ -13,6 +13,8 @@ Where possible, corresponding build videos are also included in the readme. When
 - Printerbuild
 
 # Configlog
+23.12.2024
+- Initial config
 
 # Filelog
 26.11.2024
@@ -53,3 +55,4 @@ Where possible, corresponding build videos are also included in the readme. When
 
 23.12.2024
 - Added printer.cfg
+- Added nevermore print files
