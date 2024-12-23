@@ -50,3 +50,6 @@ Where possible, corresponding build videos are also included in the readme. When
 
 22.12.2024
 - Added print files for alle parts
+
+23.12.2024
+- Added printer.cfg
