@@ -59,3 +59,6 @@ Where possible, corresponding build videos are also included in the readme. When
 23.12.2024
 - Added printer.cfg
 - Added nevermore print files
+
+24.12.2024
+- Added ebb36.cfg
