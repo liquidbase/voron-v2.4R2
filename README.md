@@ -22,6 +22,9 @@ Where possible, corresponding build videos are also included in the readme. When
 24.12.2024
 - Added UUIDs for documentation
 - Heater & fan check with configuration
+- Fixed motor pins for Z
+- Set homing speed
+- Separate macros to own file
 
 # Filelog
 26.11.2024
