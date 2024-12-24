@@ -16,6 +16,9 @@ Where possible, corresponding build videos are also included in the readme. When
 23.12.2024
 - Initial config
 
+24.12.2024
+- Added UUIDs for documentation
+
 # Filelog
 26.11.2024
 - Added formbot specific docs
