@@ -12,12 +12,16 @@ Where possible, corresponding build videos are also included in the readme. When
 15.12. - 23.12.2024
 - Printerbuild
 
+24.12.2024
+- Configuration of Klipper
+
 # Configlog
 23.12.2024
 - Initial config
 
 24.12.2024
 - Added UUIDs for documentation
+- Heater & fan check with configuration
 
 # Filelog
 26.11.2024
