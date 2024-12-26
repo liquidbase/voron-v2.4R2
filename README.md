@@ -15,6 +15,9 @@ Where possible, corresponding build videos are also included in the readme. When
 24.12.2024
 - Configuration of Klipper
 
+25.12.2024
+- Fixed Motorposition and Stepper
+
 # Configlog
 23.12.2024
 - Initial config
@@ -25,6 +28,17 @@ Where possible, corresponding build videos are also included in the readme. When
 - Fixed motor pins for Z
 - Set homing speed
 - Separate macros to own file
+
+25.12.2024
+- Splitted Files
+- Input Shaper
+- Added KAMP
+- Thermistor for Chamber
+- Fan Control
+- Fixed motor settings
+
+26.12.2024
+- Fixed Extrudersettings
 
 # Filelog
 26.11.2024
