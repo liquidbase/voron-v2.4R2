@@ -11,12 +11,18 @@ Where possible, corresponding build videos are also included in the readme. When
 
 15.12. - 23.12.2024
 - Printerbuild
+- Squaring Gantry
 
 24.12.2024
 - Configuration of Klipper
+- Squaring Gantry
 
 25.12.2024
 - Fixed Motorposition and Stepper
+- Squaring Gantry
+
+27.12.2024
+- Squaring Gantry
 
 # Configlog
 23.12.2024
@@ -36,6 +42,10 @@ Where possible, corresponding build videos are also included in the readme. When
 - Thermistor for Chamber
 - Fan Control
 - Fixed motor settings
+
+27.12.2024
+- Update config with new run_current & microsteps
+- Update print_start macro
 
 26.12.2024
 - Fixed Extrudersettings
