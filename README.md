@@ -51,6 +51,10 @@ Where possible, corresponding build videos are also included in the readme. When
 - Fixed Extrudersettings
 - Raised Retries for QDL
 
+27.12.2024
+- Added nozzlewiper (by MarcFair)
+- Fixed Z-Offset
+
 # Filelog
 26.11.2024
 - Added formbot specific docs
