@@ -4,7 +4,11 @@ uuid = {
         uuid = "04841b8caaff",
     },
     [2] = {
-        device = "EBB36",
+        device = "TH0",
         uuid = "225077e58121",
     }
+    [3] = {
+        device = "TH1",
+        uuid = "53843a489822",
+    },
 }
