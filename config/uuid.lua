@@ -11,4 +11,8 @@ uuid = {
         device = "TH1",
         uuid = "53843a489822",
     },
+    [4] = {
+        device = "TH2",
+        uuid = "9ddf448c6f86",
+    }
 }
