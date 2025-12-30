@@ -1,3 +1,4 @@
 config/*.zip
 config/current/printer_data/logs/*
 config/current/printer_data/gcodes/*
+config/current/printer_data/tok
